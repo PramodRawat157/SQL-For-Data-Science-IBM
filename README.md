@@ -25,14 +25,24 @@
                  * Close the database connection
 
 
-   ### 3) Accessing Databases with SQL Magic¶
+  ### 3) Accessing Databases with SQL Magic¶
    
              * Objectives¶
              
                  * Perform simplified database access using SQL "magic"
                  
                  
-   ### 4) Create & Access SQLite database using Python¶
+   ### 4) Accessing Databases with SQL Magic¶
+   
+             * Objectives¶
+             
+                 * Perform simplified database access using SQL "magic"
+                 * Here you will be creating and connecting to a new SQlite database SQLiteMagic.
+                 * The syntax for connecting to magic sql using sqllite is - %sql sqlite://DatabaseName
+                 * where DatabaseName will be your .db file
+
+                                 
+   ### 5) Create & Access SQLite database using Python¶
        
              * Objectives¶
           
