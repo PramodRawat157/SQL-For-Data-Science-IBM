@@ -36,4 +36,10 @@
                  * Close the database connection
 
 
+   ### 4) Accessing Databases with SQL Magic¶
+   
+             * Objectives¶
+             
+                 * Perform simplified database access using SQL "magic"
+
 
