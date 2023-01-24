@@ -12,6 +12,7 @@
                 * Query data from the table
                 * Retrieve the result set into a pandas dataframe
                 * Close the database connection
+                
             
  ### 2) Access DB2 on Cloud using Python¶
       
@@ -24,7 +25,14 @@
                  * Close the database connection
 
 
-  ### 3) Create & Access SQLite database using Python¶
+   ### 3) Accessing Databases with SQL Magic¶
+   
+             * Objectives¶
+             
+                 * Perform simplified database access using SQL "magic"
+                 
+                 
+   ### 4) Create & Access SQLite database using Python¶
        
              * Objectives¶
           
@@ -35,11 +43,5 @@
                  * Retrieve the result set into a pandas dataframe
                  * Close the database connection
 
-
-   ### 4) Accessing Databases with SQL Magic¶
-   
-             * Objectives¶
-             
-                 * Perform simplified database access using SQL "magic"
 
 
