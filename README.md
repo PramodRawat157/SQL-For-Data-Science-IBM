@@ -42,7 +42,16 @@
                  * where DatabaseName will be your .db file
 
                                  
-   ### 5) Create & Access SQLite database using Python¶
+   ### 5) Analyzing a real world data-set with SQL and Python¶
+   
+               * Objectives¶
+               
+                  * Understand a dataset of selected socioeconomic indicators in Chicago
+                  * Learn how to store data in an Db2 database on IBM Cloud instance
+                  * Solve example problems to practice SQL skills
+
+   
+   ### 6) Create & Access SQLite database using Python¶
        
              * Objectives¶
           
