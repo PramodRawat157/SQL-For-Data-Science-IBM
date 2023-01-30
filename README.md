@@ -1,84 +1,58 @@
-# SQL-For-Data-Science-IBM
+ # Databases and SQL for Data Science with Python
 
-##  Table Of Content¶
+## 📄 Summary 
 
+Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.
 
-###  ) Assignment: Notebook for Peer Assignment¶ (DB0201EN-PeerAssign-v5.ipynb)
+The purpose of this course is to introduce relational database concepts and to learn and apply foundational knowledge of the SQL language. It is also intended to provide a foundation to performing SQL access in a data science environment.  
 
-              * Objectives¶
-              
-                 * Understand three Chicago datasets
-                 * Load the three datasets into three tables in a Db2 database
-                 * Execute SQL queries to answer assignment questions
-                 
-                 
-### 1) Create & Access SQLite database using Python
-          
-              * Objectives¶
-            
-                * Create a database
-                * Create a table
-                * Insert data into the table
-                * Query data from the table
-                * Retrieve the result set into a pandas dataframe
-                * Close the database connection
-                
-            
- ### 2) Access DB2 on Cloud using Python¶
-      
-            * Objectives¶
-           
-                 * Create a table
-                 * Insert data into the table
-                 * Query data from the table
-                 * Retrieve the result set into a pandas dataframe
-                 * Close the database connection
+## 📑 Main Topics
 
+- [Accessing Databases using Python](https://github.com/PramodRawat157/SQL-For-Data-Science-IBM)
+  - How to Access Databases Using Python
+  - Writing Code using DB-API
+  - Connecting to a Database Instance
+  - Creating Tables, Inserting, and Querying Data
+  - SQL Magic
+  - Analysing Data with Python
+- [Assignment](https://github.com/PramodRawat157/SQL-For-Data-Science-IBM)
+  - Working with Real World Datasets
+  - Getting Table and Column Details
+  - Loading Data
+- [Bonus Module: Advanced SQL for Data Engineering](https://github.com/PramodRawat157/SQL-For-Data-Science-IBM)
+  - Views, Stored Procedures, and Transactions
+    - Using Views
+    - Stored Procedures
+    - ACID Transactions
+    - Committing and Rolling Back a Transaction
+  - JOIN Statements
+    - Join Overview
+    - Inner Join
+    - Outer Joins
 
-  ### 3) Accessing Databases with SQL Magic¶
-   
-             * Objectives¶
-             
-                 * Perform simplified database access using SQL "magic"
-                 
-                 
-   ### 4) Accessing Databases with SQL Magic¶
-   
-             * Objectives¶
-             
-                 * Perform simplified database access using SQL "magic"
-                 * Here you will be creating and connecting to a new SQlite database SQLiteMagic.
-                 * The syntax for connecting to magic sql using sqllite is - %sql sqlite://DatabaseName
-                 * where DatabaseName will be your .db file
+## 🔑 Key Skills Learned 
 
-                                 
-   ### 5) Analyzing a real world data-set with SQL and Python¶
-   
-               * Objectives¶
-               
-                  * Understand a dataset of selected socioeconomic indicators in Chicago
-                  * Learn how to store data in an Db2 database on IBM Cloud instance
-                  * Solve example problems to practice SQL skills
+- Access a database from a language like Python by using the appropriate API. Examples include ibm_db API for IBM DB2, psycopg2 for ProstgreSQL, and dblib API for SQL Server.
 
-   ### 6) Analyzing a real world data-set with SQL and Python¶
-   
-               * Objectives¶
-               
-                  * Understand a dataset of selected socioeconomic indicators in Chicago
-                  * Learn how to store data in an SQLite database.
-                  * Solve example problems to practice SQL skills
+- DB-API is Python's standard API for accessing relational databases. It allows you to write a single program that works with multiple kinds of relational databases instead of writing a separate program for each one.
 
-   
-   ### 7) Create & Access SQLite database using Python¶
-       
-             * Objectives¶
-          
-                 * Create a database
-                 * Create a table
-                 * Insert data into the table
-                 * Query data from the table
-                 * Retrieve the result set into a pandas dataframe
-                 * Close the database connection
+- The DB_API  connect constructor creates a connection to the database and returns a Connection Object, which is then used by the various connection methods.
 
+## The connection methods are:
+
+- The cursor() method, which returns a new cursor object using the connection.
+- The commit() method, which is used to commit any pending transaction to the database.
+- The rollback() method, which causes the database to roll-back to the start of any pending transaction.
+- The close() method, which is used to close a database connection. 
+
+- Use SQL Magic commands to execute queries more easily from Jupyter Notebooks. 
+- Magic commands have the general format %sql select * from tablename.
+- Cell magics start with a double %% (percent) sign and apply to the entire cell.
+- Line magics start with a single % (percent) sign and apply to a particular line in a cell.
+- Analysing data within a database APIs using SQL and Python
+- Creating relational databases on Cloud and working with tables
+- Comparing and contrasting DDL to DML
+- Writing SQL statements including SELECT, INSERT, UPDATE, and DELETE
+- Generating joins to query data from multiple tables
 
 
