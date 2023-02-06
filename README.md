@@ -19,17 +19,7 @@ The purpose of this course is to introduce relational database concepts and to l
   - Working with Real World Datasets
   - Getting Table and Column Details
   - Loading Data
-- [Bonus Module: Advanced SQL for Data Engineering](https://github.com/PramodRawat157/SQL-For-Data-Science-IBM)
-  - Views, Stored Procedures, and Transactions
-    - Using Views
-    - Stored Procedures
-    - ACID Transactions
-    - Committing and Rolling Back a Transaction
-  - JOIN Statements
-    - Join Overview
-    - Inner Join
-    - Outer Joins
-
+ 
 ## 🔑 Key Skills Learned 
 
 - Access a database from a language like Python by using the appropriate API. Examples include ibm_db API for IBM DB2, psycopg2 for ProstgreSQL, and dblib API for SQL Server.
