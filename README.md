@@ -65,4 +65,6 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706135-85cdd35e-922a-414a-a198-c670fbf8fb25.svg" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706148-36f27f03-1967-45d1-82d8-f6c149c6f21c.svg" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" height="35">
+ <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" height="35">
+ <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
