@@ -67,6 +67,26 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706135-85cdd35e-922a-414a-a198-c670fbf8fb25.svg" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706148-36f27f03-1967-45d1-82d8-f6c149c6f21c.svg" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" height="35">
- <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" height="35">
- <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
+ <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" height="35">  
 </p>
+
+<p align="middle">
+ <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Module%203/images/IDSNlogo.png" width="300" alt="cognitiveclass.ai logo" />
+</p>  
+
+
+🏆 Certificates
+
+To verify the certificates, click the images to follow the links.
+
+ <p align="middle">
+  <a href="https://coursera.org/share/297263feed6bc7b7f5051fcb3a37c529"><img src="https://user-images.githubusercontent.com/110245477/218282169-c9f471bc-0cb6-4f67-a3e8-8ddb349c42aa.png" height="430"></a>
+  <a href="https://www.credly.com/badges/a2f85954-fc5a-4586-86ba-9ac0dbf89fbf/public_url"><img src="https://user-images.githubusercontent.com/110245477/218282108-5c4a1412-297f-4ddb-8f2c-3cc2a6ba4b5d.png" height="430"></a>
+</p>
+
+
+<img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> This badge earner understands relational database concepts, can construct and execute SQL queries, and has demonstrated hands-on experience accessing data from databases using Python-based Data Science tools like Jupyter notebooks.
+  
+
+
+ 
