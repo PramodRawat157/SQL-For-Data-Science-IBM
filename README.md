@@ -1,4 +1,6 @@
- # Databases and SQL for Data Science with Python
+<img src="https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png" alt="Header"/> 
+ 
+# Databases and SQL for Data Science with Python
 
 ## 📄 Summary 
 
