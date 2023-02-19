@@ -10,7 +10,7 @@ The purpose of this course is to introduce relational database concepts and to l
 
 ## 📑 Main Topics
 
-- [Accessing Databases using Python](https://github.com/PramodRawat157/SQL-For-Data-Science-IBM)
+- Accessing Databases using Python
   - How to Access Databases Using Python
   - Writing Code using DB-API
   - Connecting to a Database Instance
