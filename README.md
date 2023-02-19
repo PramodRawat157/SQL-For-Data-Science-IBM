@@ -17,7 +17,7 @@ The purpose of this course is to introduce relational database concepts and to l
   - Creating Tables, Inserting, and Querying Data
   - SQL Magic
   - Analysing Data with Python
-- [Assignment](shorturl.at/sAKOR)
+- [Assignment](shorturl.at/HLMN4)
   - Working with Real World Datasets
   - Getting Table and Column Details
   - Loading Data
