@@ -17,7 +17,7 @@ The purpose of this course is to introduce relational database concepts and to l
   - Creating Tables, Inserting, and Querying Data
   - SQL Magic
   - Analysing Data with Python
-- [Assignment](https://github.com/PramodRawat157/SQL-For-Data-Science-IBM/blob/main/8)%20Peer%20Assignment.ipynb)
+- [Assignment](https://bit.ly/3EiS0UE)
   - Working with Real World Datasets
   - Getting Table and Column Details
   - Loading Data
